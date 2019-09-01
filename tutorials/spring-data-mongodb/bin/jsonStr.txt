@@ -1,0 +1,1 @@
+{"Id": "5","Name": "Rohan","Clasdifier": ["Status != 200 error","Total errors > 0 ","Status = 200 good"],"Timeout": 60.0,"Url": "xxxccc","Enabled": "true","Class": "urlmonitor","Monitorhostname": "xyz"}
